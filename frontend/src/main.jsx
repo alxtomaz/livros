@@ -13,7 +13,7 @@ import LivrosEdicao from './views/LivrosEdicao/LivrosEdicao';
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home />,
+    element: <Livros/>,
   },
   {
     path: "/livros",
